@@ -1,0 +1,49 @@
+name: nidia.goldner
+description: system engine
+version: 0.0.0.32
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: nidiagoldner
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 05:06:00'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 05:06:00'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T05:06:00.52234Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '531569011'
+  createdAt: '2025-02-05T05:06:00.52234Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
